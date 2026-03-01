@@ -1,0 +1,47 @@
+{
+  "original": {
+    "en_ocr": {
+      "text": "(6 ln\nA-U1",
+      "lines": [
+        "(6 ln",
+        "A-U1"
+      ],
+      "confidence": 0.2315838569094568,
+      "line_count": 2
+    },
+    "best_result": {
+      "model": "combined",
+      "confidence": 0.2315838569094568,
+      "text": "[en_ocr]: (6 ln\nA-U1"
+    }
+  },
+  "basic": {
+    "en_ocr": {
+      "text": "(6 In\n2-UIT",
+      "lines": [
+        "(6 In",
+        "2-UIT"
+      ],
+      "confidence": 0.2099312948729827,
+      "line_count": 2
+    },
+    "best_result": {
+      "model": "combined",
+      "confidence": 0.2099312948729827,
+      "text": "[en_ocr]: (6 In\n2-UIT"
+    }
+  },
+  "advanced": {
+    "en_ocr": {
+      "text": "",
+      "lines": [],
+      "confidence": 0.0,
+      "line_count": 0
+    },
+    "best_result": {
+      "model": "combined",
+      "confidence": 0.0,
+      "text": "No text extracted"
+    }
+  }
+}
